@@ -4,5 +4,5 @@
     ],
     "git.allowForcePush": true,
     "git.branchRandomName.enable": true,
-    "git.enabled": false
+    "git.enabled": true
 }
