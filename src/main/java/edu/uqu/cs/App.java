@@ -17,5 +17,4 @@ package edu.uqu.cs;
     {
         System.out.println( "Hello: Mohammed,443000377" );
     }
-
 }
